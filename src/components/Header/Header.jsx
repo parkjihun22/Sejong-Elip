@@ -107,10 +107,10 @@ const Header = () => {
               <AiOutlineMenu
                 className={styles.icon}
                 size={25}
-                color="#710101"
+                color="#014534"
               />
             ) : (
-              <IoCloseSharp className={styles.icon} size={25} color="#710101" />
+              <IoCloseSharp className={styles.icon} size={25} color="#014534" />
             )}
           </div>
           {isMobileMenu && (
@@ -126,7 +126,7 @@ const Header = () => {
           </Link>
           {/* 모바일에서는 기존 전화 연결 a 태그 유지 */}
           <a href="tel:1533-8848">
-            <IoCall className={styles.icon} size={25} color="#710101" />
+            <IoCall className={styles.icon} size={25} color="#014534" />
           </a>
         </div>
         {/* 모바일에서도 팝업을 렌더링 (최상위에서) */}

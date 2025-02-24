@@ -175,7 +175,7 @@ const Main = () => {
         <title>세종 엘리프</title>
         <meta
           name="description"
-          content="세종 엘리프ㅣ☎1533-8848ㅣ선착순개시ㅣ엘리프 세종 모델하우스ㅣ 엘리프 세종ㅣ엘리프 세종  ㅣ방문예약"
+          content="세종 엘리프ㅣ☎1533-8848ㅣ선착순개시ㅣ엘리프 세종  마크밸리 모델하우스ㅣ 엘리프 세종  마크밸리ㅣ엘리프 세종  ㅣ방문예약"
         />
         <meta
           name="keywords"
@@ -195,7 +195,7 @@ const Main = () => {
         />
         <meta
           property="og:description"
-          content="세종 엘리프ㅣ☎1533-8848ㅣ선착순개시ㅣ엘리프 세종 모델하우스ㅣ 엘리프 세종ㅣ엘리프 세종  ㅣ방문예약"
+          content="세종 엘리프ㅣ☎1533-8848ㅣ선착순개시ㅣ엘리프 세종  마크밸리 모델하우스ㅣ 엘리프 세종  마크밸리ㅣ엘리프 세종  ㅣ방문예약"
         />
         <meta property="og:url" content="https://www.sekailog.com/" />
         <meta property="og:type" content="website" />
@@ -212,7 +212,7 @@ const Main = () => {
         />
         <meta
           name="twitter:description"
-          content="세종 엘리프ㅣ☎1533-8848ㅣ선착순개시ㅣ엘리프 세종 모델하우스ㅣ 엘리프 세종ㅣ엘리프 세종  ㅣ방문예약"
+          content="세종 엘리프ㅣ☎1533-8848ㅣ선착순개시ㅣ엘리프 세종  마크밸리 모델하우스ㅣ 엘리프 세종  마크밸리ㅣ엘리프 세종  ㅣ방문예약"
         />
         <meta
           name="twitter:image"
@@ -281,12 +281,12 @@ const Main = () => {
                 <span className={styles.greyText}>브랜드 프리미엄</span>
               </div>
               <div className={styles.mainImageTitleBox}>
-                <div className={styles.mainImageText}>이 기다린</div>
+                <div className={styles.mainImageText}>모든사람이 기다린</div>
                 <div className={styles.mainImageLine}></div>
                 <div className={styles.mainImageText}>
-                  세종 엘리프
+                  5-1 세종 엘리프
                 </div>
-                <div className={styles.grandOpenText}>3월 GRAND OPEN 예정</div>
+                <div className={styles.grandOpenText}>4월 GRAND OPEN 예정</div>
               </div>
               <div>
                 <a href="#interestForm">
@@ -600,7 +600,7 @@ const Main = () => {
               </div>
               <div className={styles.mainImageTitleBox1}>
                 <div className={styles.mainImageText1}>
-                  세종 엘리프
+                  5-1 세종 엘리프
                 </div>
                 <div className={styles.grandOpenText1}>3월 GRAND OPEN 예정</div>
               </div>

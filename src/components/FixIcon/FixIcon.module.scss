@@ -30,7 +30,7 @@
         transform: translate(-50%, -50%);
         padding: 2vw 0;
         width: 7.5vw;
-        background-color: #890d18;
+        background-color: #014534;
         border-radius: 50%;
 
         text-align: center;
@@ -44,7 +44,7 @@
 
     &:hover {
         padding: 1vw;
-        background-color: #890d18;
+        background-color: #014534;
         border-radius: 50%;
         transform: scale(1.1);
         /* 컨테이너가 커지는 효과 */
@@ -106,11 +106,11 @@
 }
 
 .buttomBtnContainer .btn1 {
-    background-color: #890d18;
+    background-color: #014534;
 }
 
 .buttomBtnContainer .btn2 {
     background-color: #ffffff;
     border: none;
-    color: #890d18;
+    color: #014534;
 }
