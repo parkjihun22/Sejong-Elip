@@ -63,61 +63,61 @@ const Interior1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>힐스테이트 용인 마크밸리 - 인테리어 </title>
+        <title>세종엘리프 - 인테리어 </title>
         <meta
           name="description"
-          content="인테리어 페이지에서는 힐스테이트 용인 마크밸리 59타입의 고급 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
+          content="인테리어 페이지에서는 세종엘리프 59타입의 고급 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
         />
         <meta
           name="keywords"
-          content="힐스테이트용인마크밸리, 용인마크밸리, 힐스테이트용인마크밸리모델하우스"
+          content="세종엘리프, 엘리프세종, 세종엘리프모델하우스"
         />
         <link
           rel="canonical"
-          href="https://www.alwatanyh.com/Interior/59A"
+          href="https://www.sekailog.com/Interior/59A"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="힐스테이트 용인 마크밸리 - 인테리어"
+          content="세종엘리프 - 인테리어"
         />
         <meta
           property="og:description"
-          content="인테리어 페이지에서는 힐스테이트 용인 마크밸리 59타입의 고급 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
+          content="인테리어 페이지에서는 세종엘리프 59타입의 고급 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
         />
         <meta
           property="og:image"
-          content="https://www.alwatanyh.com/Main1.png"
+          content="https://www.sekailog.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.alwatanyh.com/Interior/59A"
+          content="https://www.sekailog.com/Interior/59A"
         />
-        <meta property="og:site_name" content="힐스테이트 용인 마크밸리" />
+        <meta property="og:site_name" content="세종엘리프" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="힐스테이트 용인 마크밸리 - 인테리어"
+          content="세종엘리프 - 인테리어"
         />
         <meta
           name="twitter:description"
-          content="인테리어 페이지에서는 힐스테이트 용인 마크밸리 59타입의 고급 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
+          content="인테리어 페이지에서는 세종엘리프 59타입의 고급 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다."
         />
         <meta
           name="twitter:image"
-          content="https://www.alwatanyh.com/Main1.png"
+          content="https://www.sekailog.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.alwatanyh.com/Interior/59A"
+          content="https://www.sekailog.com/Interior/59A"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
         <script type="application/ld+json">
-          {`	{		"@context": "https://schema.org",		"@type": "WebPage",		"name": "힐스테이트 용인 마크밸리 - 인테리어",		"description": "인테리어 페이지에서는 힐스테이트 용인 마크밸리 59타입의 고급 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.",		"url": "https://www.alwatanyh.com/Interior/59A"	}	`}
+          {`	{		"@context": "https://schema.org",		"@type": "WebPage",		"name": "세종엘리프 - 인테리어",		"description": "인테리어 페이지에서는 세종엘리프 59타입의 고급 인테리어 디자인을 소개합니다. 세련된 디자인과 최첨단 인테리어 요소들이 결합되어, 입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 인테리어 스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.",		"url": "https://www.sekailog.com/Interior/59A"	}	`}
         </script>
       </Helmet>
 
@@ -129,17 +129,17 @@ const Interior1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        힐스테이트 용인 마크밸리 - 인테리어
+        세종엘리프 - 인테리어
       </h1>
       <p className={styles.screenReaderOnly}>
-        인테리어 페이지에서는 힐스테이트 용인 마크밸리의 고급 인테리어 디자인을
+        인테리어 페이지에서는 세종엘리프의 고급 인테리어 디자인을
         소개합니다. 세련된 디자인과 최첨단 인테리어 요소들이 결합되어,
         입주자들에게 고급스러움과 편안함을 제공합니다. 각 공간의 인테리어
         스타일과 자재를 확인하여 더욱 매력적인 주거 공간을 발견할 수 있습니다.
       </p>
 
       <div className={styles.textBox}>
-        <div>힐스테이트 용인 마크밸리가 눈부신 가치 위에</div>
+        <div>세종엘리프가 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 
@@ -147,7 +147,7 @@ const Interior1 = () => {
       {/* <img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="힐스테이트 용인 마크밸리 인테리어59A-image1"
+				alt="세종엘리프 인테리어59A-image1"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/> */}
 

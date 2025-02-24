@@ -61,61 +61,61 @@ const ComplexGuide1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>힐스테이트 용인 마크밸리 - 체크포인트</title>
+        <title>세종 엘리프 - 체크포인트</title>
         <meta
           name="description"
-          content="힐스테이트 용인 마크밸리분양 전 필수 체크포인트를 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다."
+          content="세종 엘리프분양 전 필수 체크포인트를 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다."
         />
         <meta
           name="keywords"
-          content="힐스테이트용인마크밸리, 용인마크밸리, 힐스테이트용인마크밸리모델하우스"
+          content="세종엘리프, 엘리프세종, 세종엘리프모델하우스"
         />
         <link
           rel="canonical"
-          href="https://www.alwatanyh.com/SalesInfo/SubscriptionGuide"
+          href="https://www.sekailog.com/SalesInfo/SubscriptionGuide"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="힐스테이트 용인 마크밸리 - 체크포인트"
+          content="세종 엘리프 - 체크포인트"
         />
         <meta
           property="og:description"
-          content="힐스테이트 용인 마크밸리분양 전 필수 체크포인트를 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다.	"
+          content="세종 엘리프분양 전 필수 체크포인트를 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다.	"
         />
         <meta
           property="og:image"
-          content="https://www.alwatanyh.com/Main1.png"
+          content="https://www.sekailog.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.alwatanyh.com/SalesInfo/SubscriptionGuide"
+          content="https://www.sekailog.com/SalesInfo/SubscriptionGuide"
         />
-        <meta property="og:site_name" content="힐스테이트 용인 마크밸리" />
+        <meta property="og:site_name" content="세종 엘리프" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="힐스테이트 용인 마크밸리 - 체크포인트"
+          content="세종 엘리프 - 체크포인트"
         />
         <meta
           name="twitter:description"
-          content="힐스테이트 용인 마크밸리분양 전 필수 체크포인트를 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다."
+          content="세종 엘리프분양 전 필수 체크포인트를 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다."
         />
         <meta
           name="twitter:image"
-          content="https://www.alwatanyh.com/Main1.png"
+          content="https://www.sekailog.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.alwatanyh.com/SalesInfo/SubscriptionGuide"
+          content="https://www.sekailog.com/SalesInfo/SubscriptionGuide"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
         <script type="application/ld+json">
-          {`	{		"@context": "https://schema.org",		"@type": "WebPage",		"name": "힐스테이트 용인 마크밸리 - 체크포인트",		"description": "힐스테이트 용인 마크밸리분양 전 필수 체크포인트를 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다.",		"url": "https://www.alwatanyh.com/SalesInfo/SubscriptionGuide"	}	`}
+          {`	{		"@context": "https://schema.org",		"@type": "WebPage",		"name": "세종 엘리프 - 체크포인트",		"description": "세종 엘리프분양 전 필수 체크포인트를 확인하세요. 청약 자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을 정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수 있도록 돕습니다.",		"url": "https://www.sekailog.com/SalesInfo/SubscriptionGuide"	}	`}
         </script>
       </Helmet>
 
@@ -127,17 +127,17 @@ const ComplexGuide1 = () => {
       <MenuBar contents={menuContents} />
       {/* <h1> 태그를 사용하여 페이지 제목 설정 (SEO 최적화) */}
       <h1 className={styles.screenReaderOnly}>
-        힐스테이트 용인 마크밸리 - 체크포인트
+        세종 엘리프 - 체크포인트
       </h1>
       <p className={styles.screenReaderOnly}>
-        힐스테이트 용인 마크밸리 분양 전 필수 체크포인트를 확인하세요. 청약
+        세종 엘리프 분양 전 필수 체크포인트를 확인하세요. 청약
         자격, 서류 준비, 일정 등 분양 절차에서 놓치지 말아야 할 중요한 사항들을
         정리해두었습니다. 정확한 정보와 절차를 통해 분양을 성공적으로 진행할 수
         있도록 돕습니다.
       </p>
 
       <div className={styles.textBox}>
-        <div>힐스테이트 용인 마크밸리가 눈부신 가치 위에</div>
+        <div>세종 엘리프가 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 
@@ -145,7 +145,7 @@ const ComplexGuide1 = () => {
       {/* <img
         className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
         src={page1}
-        alt="힐스테이트 용인 마크밸리청약체크포인트-image1"
+        alt="세종 엘리프청약체크포인트-image1"
         onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
       /> */}
 

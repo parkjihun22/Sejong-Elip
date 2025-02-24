@@ -45,8 +45,8 @@ const section3Contents = [
   {
     imgSrc: section3_Image1,
     title: "PREMIUM 01",
-    text1: `1990세대 랜드마크 현대건설`,
-    text2: `용인을 대표할<br />
+    text1: `1990세대 랜드마크 계룡건설`,
+    text2: `을 대표할<br />
 			  대단지 브랜드 프리미엄`,
     link: "/BusinessGuide/intro",
     linkText: "더 알아보기 >",
@@ -55,7 +55,7 @@ const section3Contents = [
     imgSrc: section3_Image2,
     title: "PREMIUM 02",
     text1: `여유로운 직주근접 단지`,
-    text2: `세계최대규모 삼성전자 용인캠퍼스<br />
+    text2: `세계최대규모 삼성전자 캠퍼스<br />
 			  송탄·칠괴 산단,KG모빌리티 등`,
     link: "/LocationEnvironment/intro",
     linkText: "더 알아보기 >",
@@ -64,7 +64,7 @@ const section3Contents = [
     imgSrc: section3_Image3,
     title: "PREMIUM 03",
     text1: `다 갖춘 고품격 커뮤니티`,
-    text2: `용인 내 최초 실내 수영장 및<br />
+    text2: ` 내 최초 실내 수영장 및<br />
 			  독서실 골프클럽 등 대규모 커뮤니티`,
     link: "/LocationEnvironment/intro",
     linkText: "더 알아보기 >",
@@ -172,17 +172,17 @@ const Main = () => {
         />
 
         {/* SEO 최적화를 위한 메타 태그 추가 */}
-        <title>힐스테이트 용인 마크밸리 - 프리미엄 아파트</title>
+        <title>세종 엘리프</title>
         <meta
           name="description"
-          content="힐스테이트 용인 마크밸리ㅣ☎1533-8848ㅣ선착순개시ㅣ힐스테이트 용인마크밸리 모델하우스ㅣ용인 힐스테이트 마크밸리ㅣ힐스테이트 용인ㅣ방문예약"
+          content="세종 엘리프ㅣ☎1533-8848ㅣ선착순개시ㅣ엘리프 세종 모델하우스ㅣ 엘리프 세종ㅣ엘리프 세종  ㅣ방문예약"
         />
         <meta
           name="keywords"
-          content="힐스테이트용인마크밸리, 용인마크밸리, 힐스테이트용인마크밸리모델하우스"
+          content="세종엘리프, 엘리프세종, 세종엘리프모델하우스"
         />
         <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://www.alwatanyh.com/" />
+        <link rel="canonical" href="https://www.sekailog.com/" />
 
         {/* 모바일 친화성을 위한 추가 태그 */}
         <meta name="HandheldFriendly" content="True" />
@@ -191,32 +191,32 @@ const Main = () => {
         {/* Open Graph - 소셜 미디어(페이스북, LinkedIn 등) 공유 최적화 */}
         <meta
           property="og:title"
-          content="힐스테이트 용인 마크밸리 - 프리미엄 아파트"
+          content="세종 엘리프 - 프리미엄 아파트"
         />
         <meta
           property="og:description"
-          content="힐스테이트 용인 마크밸리ㅣ☎1533-8848ㅣ선착순개시ㅣ힐스테이트 용인마크밸리 모델하우스ㅣ용인 힐스테이트 마크밸리ㅣ힐스테이트 용인ㅣ방문예약"
+          content="세종 엘리프ㅣ☎1533-8848ㅣ선착순개시ㅣ엘리프 세종 모델하우스ㅣ 엘리프 세종ㅣ엘리프 세종  ㅣ방문예약"
         />
-        <meta property="og:url" content="https://www.alwatanyh.com/" />
+        <meta property="og:url" content="https://www.sekailog.com/" />
         <meta property="og:type" content="website" />
         <meta
           property="og:image"
-          content="https://www.alwatanyh.com/Main1.png" // 실제 메인 이미지 URL로 변경하세요.
+          content="https://www.sekailog.com/Main1.png" // 실제 메인 이미지 URL로 변경하세요.
         />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="힐스테이트 용인 마크밸리 - 프리미엄 아파트"
+          content="세종 엘리프 - 프리미엄 아파트"
         />
         <meta
           name="twitter:description"
-          content="힐스테이트 용인 마크밸리ㅣ☎1533-8848ㅣ선착순개시ㅣ힐스테이트 용인마크밸리 모델하우스ㅣ용인 힐스테이트 마크밸리ㅣ힐스테이트 용인ㅣ방문예약"
+          content="세종 엘리프ㅣ☎1533-8848ㅣ선착순개시ㅣ엘리프 세종 모델하우스ㅣ 엘리프 세종ㅣ엘리프 세종  ㅣ방문예약"
         />
         <meta
           name="twitter:image"
-          content="https://www.alwatanyh.com/Main1.png" // 실제 이미지 URL로 변경하세요.
+          content="https://www.sekailog.com/Main1.png" // 실제 이미지 URL로 변경하세요.
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도를 높이기 위한 스키마 마크업 */}
@@ -225,15 +225,15 @@ const Main = () => {
       {
         "@context": "http://schema.org",
         "@type": "ApartmentComplex",
-        "name": "힐스테이트 용인 마크밸리",
-        "description": "브랜드 평판 1위 프리미엄 아파트. 방문 예약 시 신세계상품권 증정 등 다양한 혜택을 제공합니다.",
-        "url": "https://www.alwatanyh.com/",
-        "image": "https://www.alwatanyh.com/Main1.png",
+        "name": "세종 엘리프",
+        "description": "프리미엄 아파트. 방문 예약 시 신세계상품권 증정 등 다양한 혜택을 제공합니다.",
+        "url": "https://www.sekailog.com/",
+        "image": "https://www.sekailog.com/Main1.png",
         "telephone": "1533-8848",
         "address": {
           "@type": "PostalAddress",
           "streetAddress": "주소정보를 입력하세요",
-          "addressLocality": "용인",
+          "addressLocality": "",
           "addressRegion": "경기도",
           "postalCode": "우편번호"
         }
@@ -272,19 +272,19 @@ const Main = () => {
             <img
               src={mainImage}
               className={styles.mainImage}
-              alt="힐스테이트 용인 마크밸리-mainimage1"
+              alt="세종 엘리프-mainimage1"
             />
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox}>
               <div className={styles.mainImageTextSub}>
-                브랜드 평판 1위 힐스테이트{" "}
+                브랜드 평판 1위 엘리프 세종 {" "}
                 <span className={styles.greyText}>브랜드 프리미엄</span>
               </div>
               <div className={styles.mainImageTitleBox}>
-                <div className={styles.mainImageText}>용인이 기다린</div>
+                <div className={styles.mainImageText}>이 기다린</div>
                 <div className={styles.mainImageLine}></div>
                 <div className={styles.mainImageText}>
-                  힐스테이트 용인 마크밸리
+                  세종 엘리프
                 </div>
                 <div className={styles.grandOpenText}>3월 GRAND OPEN 예정</div>
               </div>
@@ -293,7 +293,7 @@ const Main = () => {
                   <img
                     src={subpinkimg}
                     className={styles.subPinkImg}
-                    alt="힐스테이트 용인 마크밸리 관심고객등록"
+                    alt="세종 엘리프 관심고객등록"
                   />
                 </a>
               </div>
@@ -309,10 +309,10 @@ const Main = () => {
                   " 방문 예약 고객 전원 신세계상품권 100% 증정 "
                 </div>
                 <div className={styles.text3}>
-                  - 용인 중심상업지구 매우인접 <br />
+                  -  중심상업지구 매우인접 <br />
                   - 첨단 아주대학교 종합병원 도보 5분 <br />
                   - 평택 지제역 1호선, STR, KTX, GTX-A · C 확정으로 펜타역세권{" "}
-                  <br />- 모두를 누리는 힐스테이트 용인 마크밸리
+                  <br />- 모두를 누리는 세종 엘리프
                 </div>
                 <div className={styles.text4}>
                   <a
@@ -329,7 +329,7 @@ const Main = () => {
               <div className={styles.menuBox}>
                 <img
                   src={section1_Image1}
-                  alt="힐스테이트 용인 마크밸리 브랜드소개-image2"
+                  alt="세종 엘리프 브랜드소개-image2"
                 />
                 <Link to="/Brand/video" className={styles.btn}>
                   브랜드 소개 {">"}
@@ -343,17 +343,17 @@ const Main = () => {
               <div className={styles.textBox}>
                 <div className={styles.title}>
                   소수만 누릴 수 있는<br />
-                  <span>최고의 브랜드 아파트 힐스테이트 용인 마크밸리</span>
+                  <span>최고의 브랜드 아파트 세종 엘리프</span>
                 </div>
                 <div className={styles.subTitle}>
                   <div className={styles.textLine}></div>
                   <div className={styles.subText}>
                     찬란한 비전에 완벽한 주거가치까지 더해<br />
-                    힐스테이트 용인 마크밸리가 함께합니다
+                    세종 엘리프가 함께합니다
                   </div>
                 </div>
               </div>
-              <img src={section8Img3} alt="힐스테이트 용인 마크밸리 입지환경소개-image2" />
+              <img src={section8Img3} alt="세종 엘리프 입지환경소개-image2" />
             </div>
           </div> */}
 
@@ -366,7 +366,7 @@ const Main = () => {
                 <div className={`${styles.text2} fadeUpRepeat`}>
                   기대한 모든 프리미엄이
                   <br />
-                  힐스테이트 용인 마크밸리에서 펼쳐집니다
+                  세종 엘리프에서 펼쳐집니다
                 </div>
                 <div className={`${styles.text3} fadeUpRepeat`}>
                   SPECIAL PLAN
@@ -386,7 +386,7 @@ const Main = () => {
               </div>
               <img
                 src={section2_Image1}
-                alt="힐스테이트 용인 마크밸리아파트 조감도-image3"
+                alt="세종 엘리프아파트 조감도-image3"
               />
             </div>
           </div>
@@ -410,8 +410,8 @@ const Main = () => {
           {/* <div className={styles.section}>
             <div className={styles.section4}>
               <div className={styles.imageBox}>
-                <img src={section4_Image1} alt="힐스테이트 용인 마크밸리 브랜드소개-image4" />
-                <div className={styles.text1}>힐스테이트 용인 마크밸리</div>
+                <img src={section4_Image1} alt="세종 엘리프 브랜드소개-image4" />
+                <div className={styles.text1}>세종 엘리프</div>
                 <div className={styles.text2}>THE NATURAL NOBILITY</div>
                 <div className={styles.text3}>당신의 삶, 그 고귀함이 계속되길</div>
               </div>
@@ -431,14 +431,14 @@ const Main = () => {
               <div className={styles.registrationInfo}>
                 <div className={styles.text1}>
                   <p>
-                    힐스테이트 용인 마크밸리
+                    세종 엘리프
                     <br />
                     주변이 궁금하시나요?
                   </p>
                 </div>
                 <div className={styles.text2}>
                   <p>
-                    힐스테이트 용인 마크밸리
+                    세종 엘리프
                     <br />
                     현장 정보 및 견본주택 정보를 보실 수 있습니다.
                   </p>
@@ -458,10 +458,10 @@ const Main = () => {
               {/* 오른쪽 관심고객 등록 폼 영역 */}
               <div className={styles.registrationSection}>
                 <div className={styles.registrationHeader}>
-                  대전 하늘채 스카이앤 3차
+                  세종 5-1 엘리프 
                 </div>
                 <div className={styles.registrationDescription}>
-                  관심고객등록
+                  사전관심고객 등록
                 </div>
                 {/* Formspree 연동: onSubmit 제거, action, method 추가 */}
                 <form
@@ -523,18 +523,18 @@ const Main = () => {
             <div className={styles.section9}>
               <div className={styles.textBox}>
                 <div className={styles.title}>
-                힐스테이트 용인 마크밸리<br />
+                세종 엘리프<br />
                   <span>견본주택 오시는길</span>
                 </div>
                 <div className={styles.subTitle}>
                   <div className={styles.textLine}></div>
                   <div className={styles.subText}>
                     찬란한 비전에 완벽한 주거가치까지 더해<br />
-                    힐스테이트 용인 마크밸리가 함께합니다
+                    세종 엘리프가 함께합니다
                   </div>
                 </div>
               </div>
-              <img src={map1} alt="힐스테이트 용인 마크밸리 오시는길안내-image1" />
+              <img src={map1} alt="세종 엘리프 오시는길안내-image1" />
             </div>
           </div> */}
 
@@ -588,19 +588,19 @@ const Main = () => {
             <img
               src={mobileImageMain}
               className={styles.mainImage}
-              alt="힐스테이트 용인 마크밸리 mobilemain-image1"
+              alt="세종 엘리프 mobilemain-image1"
             />
             <div className={styles.overlay}></div>
             <div className={styles.mainImageTextBox1}>
               <div className={styles.mainImageTextSub1}>
-                브랜드 평판 1위 힐스테이트
+                브랜드 평판 1위 엘리프 세종 
                 <br />
                 <span className={styles.greyText1}>브랜드 프리미엄 </span>
                 <br />
               </div>
               <div className={styles.mainImageTitleBox1}>
                 <div className={styles.mainImageText1}>
-                  힐스테이트 용인 마크밸리
+                  세종 엘리프
                 </div>
                 <div className={styles.grandOpenText1}>3월 GRAND OPEN 예정</div>
               </div>
@@ -613,7 +613,7 @@ const Main = () => {
               "방문예약을 하시면 신세계 상품권 100% 증정 "
             </div>
             <div className={styles.text3}>
-              - 용인 중심상업지구 가장인접한 입지
+              -  중심상업지구 가장인접한 입지
               <br />
               - 첨단 아주대학교 AI종합병원, 의료R＆D센터 도보 5분
               <br />
@@ -639,7 +639,7 @@ const Main = () => {
           <div className={styles.container7}>
             <div className={styles.textBox}>
               <div className={styles.title}>
-                용인의 중심으로 사는
+                의 중심으로 사는
                 <br />
                 <span>최고의 브랜드 아파트</span>
               </div>
@@ -648,13 +648,13 @@ const Main = () => {
                 <div className={styles.subText}>
                   완벽한 비전중심에서 완벽한 주거가치까지 더해
                   <br />
-                  힐스테이트 용인 마크밸리가 함께합니다
+                  세종 엘리프가 함께합니다
                 </div>
               </div>
             </div>
             <img
               src={section8Img3}
-              alt="힐스테이트 용인 마크밸리 mobile입지안내-image1"
+              alt="세종 엘리프 mobile입지안내-image1"
             />
           </div>
 
@@ -666,19 +666,19 @@ const Main = () => {
               <div className={`${styles.text2} fadeUpRepeat`}>
                 기대한 모든 프리미엄이
                 <br />
-                힐스테이트 용인 마크밸리에서 펼쳐집니다
+                세종 엘리프에서 펼쳐집니다
               </div>
               <div className={`${styles.text3} fadeUpRepeat`}>SPECIAL PLAN</div>
               <div className={`${styles.text4} fadeUpRepeat`}>
                 살수록 자부심이 차원이 다른
                 <br />
-                프리미엄 주거라이프를 힐스테이트 용인 마크밸리 <br />
+                프리미엄 주거라이프를 세종 엘리프 <br />
                 모델하우스에서 확인하세요
               </div>
             </div>
             <img
               src={section2_Image1}
-              alt="힐스테이트 용인 마크밸리 mobile조감도-image1"
+              alt="세종 엘리프 mobile조감도-image1"
             />
           </div>
 
@@ -706,7 +706,7 @@ const Main = () => {
           {/* 관심고객 등록 섹션 (모바일 버전) */}
           <div className={styles.containerRegistration}>
             <div className={styles.registrationHeader}>
-              힐스테이트 용인 마크밸리
+              세종 엘리프
             </div>
             <div className={styles.registrationDescription}>방문예약</div>
             {/* Formspree 연동: onSubmit 제거, action, method 추가 */}
@@ -768,7 +768,7 @@ const Main = () => {
             <div>
               <img
                 src={section1_Image1}
-                alt="힐스테이트 용인 마크밸리 브랜드소개 mobile-image5"
+                alt="세종 엘리프 브랜드소개 mobile-image5"
               />
               <Link to="/Brand/intro" className={styles.btn}>
                 브랜드 소개 {">"}
@@ -778,7 +778,7 @@ const Main = () => {
 
           {/* <div className={styles.section}>
             <div className={styles.section9}>
-              <img src={mobilemap1} alt="힐스테이트 용인 마크밸리 오시는길안내-mobileimage2" />
+              <img src={mobilemap1} alt="세종 엘리프 오시는길안내-mobileimage2" />
             </div>
           </div> */}
 

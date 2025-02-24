@@ -59,61 +59,61 @@ const ComplexGuide1 = () => {
         <meta name="robots" content="index, follow" />
 
         {/* SEO 최적화를 위한 메타 태그 */}
-        <title>힐스테이트 용인 마크밸리 - 호수배치도</title>
+        <title>세종 엘리프 - 호수배치도</title>
         <meta
           name="description"
-          content="힐스테이트 용인 마크밸리의 단지호수배치도를 통해 각 동의 위치와 편의시설의 배치를 확인하세요. 효율적인 동선 설계와 조경 공간, 입주민의 생활 편의를 고려한 배치를 상세히 안내합니다"
+          content="세종 엘리프의 단지호수배치도를 통해 각 동의 위치와 편의시설의 배치를 확인하세요. 효율적인 동선 설계와 조경 공간, 입주민의 생활 편의를 고려한 배치를 상세히 안내합니다"
         />
         <meta
           name="keywords"
-          content="힐스테이트용인마크밸리, 용인마크밸리, 힐스테이트용인마크밸리모델하우스"
+          content="세종엘리프, 엘리프세종, 세종엘리프모델하우스"
         />
         <link
           rel="canonical"
-          href="https://www.alwatanyh.com/ComplexGuide/detailintro"
+          href="https://www.sekailog.com/ComplexGuide/detailintro"
         />
 
         {/* Open Graph - 소셜 미디어 공유 최적화 */}
         <meta
           property="og:title"
-          content="힐스테이트 용인 마크밸리 - 호수배치도"
+          content="세종 엘리프 - 호수배치도"
         />
         <meta
           property="og:description"
-          content="힐스테이트 용인 마크밸리의 단지호수배치도를 통해 각 동의 위치와 편의시설의 배치를 확인하세요. 효율적인 동선 설계와 조경 공간, 입주민의 생활 편의를 고려한 배치를 상세히 안내합니다.	"
+          content="세종 엘리프의 단지호수배치도를 통해 각 동의 위치와 편의시설의 배치를 확인하세요. 효율적인 동선 설계와 조경 공간, 입주민의 생활 편의를 고려한 배치를 상세히 안내합니다.	"
         />
         <meta
           property="og:image"
-          content="https://www.alwatanyh.com/Main1.png"
+          content="https://www.sekailog.com/Main1.png"
         />
         <meta
           property="og:url"
-          content="https://www.alwatanyh.com/ComplexGuide/detailintro"
+          content="https://www.sekailog.com/ComplexGuide/detailintro"
         />
-        <meta property="og:site_name" content="힐스테이트 용인 마크밸리" />
+        <meta property="og:site_name" content="세종 엘리프" />
 
         {/* Twitter 카드 설정 */}
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="힐스테이트 용인 마크밸리 - 호수배치도"
+          content="세종 엘리프 - 호수배치도"
         />
         <meta
           name="twitter:description"
-          content="힐스테이트 용인 마크밸리의 호수배치도를 통해 각 동의 위치와 편의시설의 배치를 확인하세요. 효율적인 동선 설계와 조경 공간, 입주민의 생활 편의를 고려한 배치를 상세히 안내합니다"
+          content="세종 엘리프의 호수배치도를 통해 각 동의 위치와 편의시설의 배치를 확인하세요. 효율적인 동선 설계와 조경 공간, 입주민의 생활 편의를 고려한 배치를 상세히 안내합니다"
         />
         <meta
           name="twitter:image"
-          content="https://www.alwatanyh.com/Main1.png"
+          content="https://www.sekailog.com/Main1.png"
         />
         <meta
           name="twitter:url"
-          content="https://www.alwatanyh.com/ComplexGuide/detailintro"
+          content="https://www.sekailog.com/ComplexGuide/detailintro"
         />
 
         {/* 구조화된 데이터 (JSON-LD) - 검색엔진 이해도 향상 */}
         <script type="application/ld+json">
-          {`	{		"@context": "https://schema.org",		"@type": "WebPage",		"name": "힐스테이트 용인 마크밸리 - 호수배치도", "description": "힐스테이트 용인 마크밸리의 단지호수배치도를 통해 각 동의 위치와 편의시설의 배치를 확인하세요. 효율적인 동선 설계와 조경 공간, 입주민의 생활 편의를 고려한 배치를 상세히 안내합니다 ",		"url": "https://www.alwatanyh.com/ComplexGuide/detailintro"	}	`}
+          {`	{		"@context": "https://schema.org",		"@type": "WebPage",		"name": "세종 엘리프 - 호수배치도", "description": "세종 엘리프의 단지호수배치도를 통해 각 동의 위치와 편의시설의 배치를 확인하세요. 효율적인 동선 설계와 조경 공간, 입주민의 생활 편의를 고려한 배치를 상세히 안내합니다 ",		"url": "https://www.sekailog.com/ComplexGuide/detailintro"	}	`}
         </script>
       </Helmet>
 
@@ -122,7 +122,7 @@ const ComplexGuide1 = () => {
       <Bener title="단지안내" />
       <MenuBar contents={menuContents} />
       <h1 className={styles.screenReaderOnly}>
-        힐스테이트 용인 마크밸리 - 호수배치도
+        세종 엘리프 - 호수배치도
       </h1>
       <p className={styles.screenReaderOnly}>
         호수 배치도 페이지는 각 세대의 위치와 평면도를 제공합니다. 고객들이
@@ -131,7 +131,7 @@ const ComplexGuide1 = () => {
       </p>
 
       <div className={styles.textBox}>
-        <div>힐스테이트 용인 마크밸리가 눈부신 가치 위에</div>
+        <div>세종 엘리프가 눈부신 가치 위에</div>
         <div>새로운 자부심으로 찾아옵니다.</div>
       </div>
 
@@ -139,7 +139,7 @@ const ComplexGuide1 = () => {
       {/* <img
 				className={`${styles.image2} ${isImage2Loaded ? styles.showImage2 : ''}`}
 				src={page1}
-				alt="힐스테이트 용인 마크밸리 호수배치도-image1"
+				alt="세종 엘리프 호수배치도-image1"
 				onLoad={handleImageLoad}  // 이미지 로드 후 애니메이션 실행
 			/> */}
 
