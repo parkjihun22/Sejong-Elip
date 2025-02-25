@@ -172,14 +172,14 @@ const Main = () => {
         />
 
         {/* SEO 최적화를 위한 메타 태그 추가 */}
-        <title>세종 엘리프</title>
+        <title>엘리프 세종 5-1</title>
         <meta
           name="description"
-          content="세종 엘리프ㅣ☎1533-8848ㅣ선착순개시ㅣ엘리프 세종  마크밸리 모델하우스ㅣ 엘리프 세종  마크밸리ㅣ엘리프 세종  ㅣ방문예약"
+          content="엘리프 세종ㅣ☎1533-8848ㅣ사전청약 관심고객 모집중ㅣ세종 엘리프ㅣ세종 5-1 엘리프ㅣ엘리프 세종 5-1ㅣ방문예약"
         />
         <meta
           name="keywords"
-          content="세종엘리프, 엘리프세종, 세종엘리프모델하우스"
+          content="엘리프세종, 엘리프세종5-1, 세종엘리프,세종엘리프모델하우스"
         />
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://www.sekailog.com/" />
@@ -191,11 +191,11 @@ const Main = () => {
         {/* Open Graph - 소셜 미디어(페이스북, LinkedIn 등) 공유 최적화 */}
         <meta
           property="og:title"
-          content="세종 엘리프 - 프리미엄 아파트"
+          content="엘리프 세종 5-1"
         />
         <meta
           property="og:description"
-          content="세종 엘리프ㅣ☎1533-8848ㅣ선착순개시ㅣ엘리프 세종  마크밸리 모델하우스ㅣ 엘리프 세종  마크밸리ㅣ엘리프 세종  ㅣ방문예약"
+          content="엘리프 세종ㅣ☎1533-8848ㅣ사전청약 관심고객 모집중ㅣ세종 엘리프ㅣ세종 5-1 엘리프ㅣ엘리프 세종 5-1ㅣ방문예약약"
         />
         <meta property="og:url" content="https://www.sekailog.com/" />
         <meta property="og:type" content="website" />
@@ -208,11 +208,11 @@ const Main = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="세종 엘리프 - 프리미엄 아파트"
+          content="엘리프 세종 5-1"
         />
         <meta
           name="twitter:description"
-          content="세종 엘리프ㅣ☎1533-8848ㅣ선착순개시ㅣ엘리프 세종  마크밸리 모델하우스ㅣ 엘리프 세종  마크밸리ㅣ엘리프 세종  ㅣ방문예약"
+          content="엘리프 세종ㅣ☎1533-8848ㅣ사전청약 관심고객 모집중ㅣ세종 엘리프ㅣ세종 5-1 엘리프ㅣ엘리프 세종 5-1ㅣ방문예약"
         />
         <meta
           name="twitter:image"
