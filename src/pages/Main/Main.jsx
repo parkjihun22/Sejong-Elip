@@ -172,14 +172,14 @@ const Main = () => {
         />
 
         {/* SEO 최적화를 위한 메타 태그 추가 */}
-        <title>엘리프 세종 5-1</title>
+        <title>「엘리프 세종 5-1」</title>
         <meta
           name="description"
-          content="엘리프 세종ㅣ☎1533-8848ㅣ사전청약 관심고객 모집중ㅣ세종 엘리프ㅣ세종 5-1 엘리프ㅣ엘리프 세종 5-1ㅣ방문예약"
+          content="엘리프 세종 5-1ㅣ☎(대표)1533-8848ㅣ모델하우스ㅣ엘리프세종ㅣ세종 엘리프 5-1ㅣ분양일정ㅣ9BLㅣ세종엘리프ㅣ방문예약ㅣ오픈일정"
         />
         <meta
           name="keywords"
-          content="엘리프세종, 엘리프세종5-1, 세종엘리프,세종엘리프모델하우스"
+          content="엘리프세종, 엘리프세종5-1, 세종엘리프,엘리프세종모델하우스"
         />
         <meta name="robots" content="index, follow" />
         <link rel="canonical" href="https://www.sekailog.com/" />
@@ -191,11 +191,11 @@ const Main = () => {
         {/* Open Graph - 소셜 미디어(페이스북, LinkedIn 등) 공유 최적화 */}
         <meta
           property="og:title"
-          content="엘리프 세종 5-1"
+          content="「엘리프 세종 5-1」"
         />
         <meta
           property="og:description"
-          content="엘리프 세종ㅣ☎1533-8848ㅣ사전청약 관심고객 모집중ㅣ세종 엘리프ㅣ세종 5-1 엘리프ㅣ엘리프 세종 5-1ㅣ방문예약약"
+          content="엘리프 세종 5-1ㅣ☎(대표)1533-8848ㅣ모델하우스ㅣ엘리프세종ㅣ세종 엘리프 5-1ㅣ분양일정ㅣ9BLㅣ세종엘리프ㅣ방문예약ㅣ오픈일정약"
         />
         <meta property="og:url" content="https://www.sekailog.com/" />
         <meta property="og:type" content="website" />
@@ -208,11 +208,11 @@ const Main = () => {
         <meta name="twitter:card" content="summary_large_image" />
         <meta
           name="twitter:title"
-          content="엘리프 세종 5-1"
+          content="「엘리프 세종 5-1」"
         />
         <meta
           name="twitter:description"
-          content="엘리프 세종ㅣ☎1533-8848ㅣ사전청약 관심고객 모집중ㅣ세종 엘리프ㅣ세종 5-1 엘리프ㅣ엘리프 세종 5-1ㅣ방문예약"
+          content="엘리프 세종 5-1ㅣ☎(대표)1533-8848ㅣ모델하우스ㅣ엘리프세종ㅣ세종 엘리프 5-1ㅣ분양일정ㅣ9BLㅣ세종엘리프ㅣ방문예약ㅣ오픈일정"
         />
         <meta
           name="twitter:image"
@@ -232,10 +232,10 @@ const Main = () => {
         "telephone": "1533-8848",
         "address": {
           "@type": "PostalAddress",
-          "streetAddress": "주소정보를 입력하세요",
+          "streetAddress": "세종특별자치시 5-1 9BL",
           "addressLocality": "",
-          "addressRegion": "경기도",
-          "postalCode": "우편번호"
+          "addressRegion": "세종특별자치시",
+          "postalCode": ""
         }
       }
     `}
