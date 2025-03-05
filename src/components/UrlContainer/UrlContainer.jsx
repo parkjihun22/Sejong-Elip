@@ -12,16 +12,23 @@ const UrlContainer = () => {
 
     const handleScroll = (direction) => {
         if (!containerRef.current) return;
-
-        let newIndex = scrollIndex + (direction === "left" ? -3 : 3);
-        if (newIndex < 0 || newIndex > urlList.length - visibleItems) return;
-
+    
+        let newIndex = scrollIndex + (direction === "left" ? -1 : 1);
+    
+        // 🔄 원형 스크롤 구현
+        if (newIndex < 0) {
+            newIndex = urlList.length - visibleItems; // 처음에서 왼쪽 → 마지막으로
+        } else if (newIndex > urlList.length - visibleItems) {
+            newIndex = 0; // 마지막에서 오른쪽 → 처음으로
+        }
+    
         setScrollIndex(newIndex);
         containerRef.current.scrollTo({
             left: newIndex * (itemWidth * window.innerWidth) / 100,
             behavior: "smooth",
         });
     };
+    
 
     return (
         <div className={styles.container}>
@@ -31,7 +38,6 @@ const UrlContainer = () => {
                 <button
                     className={styles.navButton}
                     onClick={() => handleScroll("left")}
-                    disabled={scrollIndex === 0}
                 >
                     ◀
                 </button>
@@ -49,7 +55,6 @@ const UrlContainer = () => {
                 <button
                     className={styles.navButton}
                     onClick={() => handleScroll("right")}
-                    disabled={scrollIndex >= urlList.length - visibleItems}
                 >
                     ▶
                 </button>
