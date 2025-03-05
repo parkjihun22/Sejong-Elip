@@ -20,7 +20,7 @@ const Bener = ({ title }) => {
             <img
                 className={`${styles.benerImage} ${isLoaded ? styles.showImage : ''}`}
                 src={img}
-                alt="힐스테이트 용인 마크밸리-benerimage"
+                alt="세종엘리프5-1benerimage"
             />
             <div className={styles.overlay}></div>
             <div

@@ -14,6 +14,7 @@ import MobilePopup from "../../components/MobilePopup/MobilePopup";
 import Popup from "../../components/Popup/Popup";
 import MobileSectionBox from "../../components/MobileSectionBox/MobileSectionBox";
 import InterestPopup from "../../components/InterestPopup/InterestPopup";
+import UrlContainer from "../../components/UrlContainer/UrlContainer";
 
 import mainImage from "../../assets/Main/Main1.jpg";
 import section1_Image1 from "../../assets/Main/section1-img1.jpg";
@@ -289,13 +290,16 @@ const Main = () => {
                 <div className={styles.grandOpenText}>4월 GRAND OPEN 예정</div>
               </div>
               <div>
-                <a href="#interestForm">
+              <button
+                  onClick={() => setIsInterestPopupOpen(true)}
+                  className={styles.subPinkBtn}
+                >
                   <img
                     src={subpinkimg}
                     className={styles.subPinkImg}
-                    alt="세종 엘리프 관심고객등록"
+                    alt="브레인시티푸르지오 관심고객등록"
                   />
-                </a>
+                </button>
               </div>
             </div>
             <FixIcon type="absolute" />
@@ -466,7 +470,7 @@ const Main = () => {
                 {/* Formspree 연동: onSubmit 제거, action, method 추가 */}
                 <form
                   className={styles.registrationForm}
-                  action="https://formspree.io/f/xvgzvlvr"
+                  action="https://formspree.io/f/xrbpzzgp"
                   method="POST"
                 >
                   <label htmlFor="name">
@@ -539,6 +543,7 @@ const Main = () => {
           </div> */}
 
           <div className={styles.section5}>
+            <UrlContainer />
             <Footer />
           </div>
           {/* 방문예약 팝업 (PC) */}
@@ -783,6 +788,7 @@ const Main = () => {
           </div> */}
 
           <div className={styles.section5}>
+            <UrlContainer />
             <Footer />
             <FixIcon />
           </div>
