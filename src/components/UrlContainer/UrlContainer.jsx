@@ -13,7 +13,7 @@ const UrlContainer = () => {
     const handleScroll = (direction) => {
         if (!containerRef.current) return;
     
-        let newIndex = scrollIndex + (direction === "left" ? -1 : 1);
+        let newIndex = scrollIndex + (direction === "left" ? -3 : 3);
     
         // 🔄 원형 스크롤 구현
         if (newIndex < 0) {
