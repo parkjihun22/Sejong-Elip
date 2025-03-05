@@ -32,7 +32,7 @@ const UrlContainer = () => {
 
     return (
         <div className={styles.container}>
-            <div className={styles.title}>전국 제휴현장 소개</div>
+            <div className={styles.title}>전국 협력업체 소개</div>
 
             <div className={styles.urlContainer}> {/* ✅ 대소문자 맞춤 */}
                 <button
